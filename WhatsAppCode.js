@@ -25,7 +25,7 @@
 
     function checkStatus() {
         try {
-            // Ajusta el selector para que sea más específico
+            
             let statusElement = document.querySelector("span[title], div[title]");
             let currentState = "offline";
 
