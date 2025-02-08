@@ -7,6 +7,8 @@ You just have to copy the content of "WhatsAppCode.js" and paste it into your br
 
 These same states are shown in the console in real time.
 
+For it to work properly, you must keep the tab open and focused on the chat.
+
 If you want to stop monitoring the status just write "stopMonitoring()", then a file will be saved that shows all the states with each time indicated.
 
 If you liked or found this repository useful, please consider supporting it.
